@@ -1,3 +1,9 @@
+## 👋 About Me
+Hi! I'm **Danny Nguyen Le**
+
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/danny-nguyen-le-98808221b/)
 
@@ -20,8 +26,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvnnyle&theme=dark&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnnyle&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
-
----
-
-## 👀 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/dvnnyle/count.svg)
