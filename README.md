@@ -2,8 +2,6 @@
 
 Hey, I’m Danny! A tech enthusiast, gamer, and part-time crime fighter from Lillesand, Norway.
 
-## 💻 About Me
-
 - 👤 Age: 24  
 - 📍 Location: Norway  
 
