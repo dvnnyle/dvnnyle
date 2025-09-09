@@ -1,11 +1,5 @@
 # Yo, I'm Danny 👋
 
-Hey, I’m Danny! A tech enthusiast, gamer, and part-time crime fighter from Lillesand, Norway.
-
-- 👤 Age: 24  
-- 📍 Location: Norway  
-
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnnyle&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
